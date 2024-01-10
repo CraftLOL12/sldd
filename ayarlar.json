@@ -1,0 +1,15 @@
+{
+    "prefix": "/",
+    "botId": "1187010089110999171",
+    "botName": "BoğazHost Uptime",
+    "ownerIds": ["1095394160812494908"],
+    "token": "MTE4NzAxMDA4OTExMDk5OTE3MQ.GXfwrD.MF5tz-xgRpxxqd-kJlFccu86QjIfzYT568bICg",
+    "normalLimit": 2,
+    "premiumLimit": 5,
+    "guildLogChannel": "1194380394146050069",
+    "uptimeLogChannel": "1194380394146050069",
+    "premiumLogChannel": "1194380394146050069",
+    "blacklistLogChannel": "1194380394146050069",
+    "noWarn": false
+  }
+  
